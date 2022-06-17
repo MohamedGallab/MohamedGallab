@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 -->
 <div align="center">
   
-  <img width="50%" height="auto" src ="https://github-readme-stats.vercel.app/api?username=MohamedGallab&show_icons=true&count_private=true&theme=github-dark-blue&hide_border=true&bg_color=00000000">
-  <img width="50%" height="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedGallab&layout=compact&hide_border=true&theme=github-dark-blue&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
+  <img width="49%" height="auto" src ="https://github-readme-stats.vercel.app/api?username=MohamedGallab&show_icons=true&count_private=true&theme=github-dark-blue&hide_border=true&bg_color=00000000">
+  <img width="49%" height="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedGallab&layout=compact&hide_border=true&theme=github-dark-blue&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=MohamedGallab&theme=github-dark-blue&hide_border=true&background=FFFFFF00">
   
 </div>
