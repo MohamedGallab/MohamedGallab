@@ -13,6 +13,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+  
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=MohamedGallab&show_icons=true&count_private=true&theme=github-dark-blue&hide_border=true&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedGallab&layout=compact&hide_border=true&theme=github-dark-blue&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=MohamedGallab&theme=github-dark-blue&hide_border=true&background=FFFFFF00">
+  
+</div>
 <details>
   <summary>📌 About Me</summary>
   🎂 Age: 22
@@ -23,21 +30,6 @@ Here are some ideas to get you started:
   <br>
   🏫 University: German University in Cairo
   
-  
-</details>
-
-
-
-<details>
-  <summary>📈 Github Stats</summary>
-  
-<div align="center">
-  
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=MohamedGallab&show_icons=true&count_private=true&theme=github-dark-blue&hide_border=true&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedGallab&layout=compact&hide_border=true&theme=github-dark-blue&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=MohamedGallab&theme=github-dark-blue&hide_border=true&background=FFFFFF00">
-  
-</div>
   
 </details>
 
